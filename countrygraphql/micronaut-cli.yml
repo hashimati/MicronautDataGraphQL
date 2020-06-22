@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.mygroup.countrygraphql
+---
+testFramework: junit
+sourceLanguage: java

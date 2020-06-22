@@ -1,0 +1,1 @@
+mn create-app com-mygroup-countrygraphql --profile service --lang java --build gradle --features jdbc-hikari  --features jdbc-tomcat  --features graphql  --features data-jdbc  --features swagger-java

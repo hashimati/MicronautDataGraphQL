@@ -1,0 +1,12 @@
+type Query{
+
+    find(id:Int):Country!
+}
+
+
+
+type Country{
+
+    id:Int,
+    name:String
+}
