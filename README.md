@@ -11,7 +11,9 @@ Go to the OpenAPI page and insert countries to H2 database.
 http://localhost:8080//swagger/views/swagger-ui/index.html
 ```
 
-From GraphQL playground or Postman, do POST call using the following: 
+From GraphQL playground or Postman, do a POST call using the following:
+
+
 URL : http://localhost:8080/graphql
 
 GraphQL Body: 
